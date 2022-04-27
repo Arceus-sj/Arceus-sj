@@ -1,6 +1,6 @@
 ![A Developer 👨‍💻 & An Explorer 🚀🚀🚀](https://github.com/Arceus-sj/Arceus-sj/blob/main/Hello%20World!.png)
 
-### Hi there 👋, I'm Shantanu Jana
+## Hi! 👋, I'm Shantanu Jana
 #### A Developer 👨‍💻 & An Explorer 🚀🚀🚀
 
 ## About Me

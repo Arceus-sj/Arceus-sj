@@ -15,7 +15,7 @@ A self-taught programmer & Tech geek🐱‍💻 who loves to build👷‍♂️ 
 
 ## Skills & Experience
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,py,git,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,py,html,css,js,jquery,git,figma)](https://skills.thijs.gg)
 
 ## Connect With Me 👇👇👇
 

@@ -29,7 +29,8 @@ A self-taught programmer & Tech geek🐱‍💻 who loves to build👷‍♂️ 
 
 ## Connect With Me 👇👇👇
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arceus-sj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shantanu-Jana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cypherJana)  
+[<img src='https://user-images.githubusercontent.com/71997730/170814881-8ab0d779-9c46-4c8d-a25c-579ee588a217.svg' alt='github' width="60" height='60'>](https://github.com/Arceus-sj)  [<img src='https://user-images.githubusercontent.com/71997730/170814994-b005073a-0a36-4ff3-a79b-9a044473aa15.svg' alt='linkedin' width="60" height='60'>](https://www.linkedin.com/in/Shantanu-Jana/)  [<img src='https://user-images.githubusercontent.com/71997730/170815099-8ac56c29-3170-479e-b637-73a0e410e9d6.svg' alt='twitter' width="60" height='60'>](https://twitter.com/cypherJana)  
+
 
 ## GitHub Stats 📈
 

@@ -1,4 +1,5 @@
-![A Developer 👨‍💻 & An Explorer 🚀🚀🚀](https://user-images.githubusercontent.com/71997730/170814663-781310e3-81a2-4d7f-957f-8969d2fe1c5e.gif)
+![A Developer 👨‍💻 & An Explorer 🚀🚀🚀](https://user-images.githubusercontent.com/71997730/170831467-bf7bc0ce-fc1b-4396-8856-2749ce47280e.gif)
+
 
 
 ## Hi! 👋, I'm Shantanu Jana

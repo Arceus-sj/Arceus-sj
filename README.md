@@ -36,9 +36,9 @@ A self-taught programmer & Tech geek🐱‍💻 who loves to build👷‍♂️ 
 ## GitHub Stats 📈
 
 <div  style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
- <img style="margin:5px 10px;" src="https://github-readme-stats.vercel.app/api?username=Arceus-sj&show_icons=true&theme=midnight-purple" />
+ <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api?username=Arceus-sj&show_icons=true&theme=midnight-purple" />
 
- <img style="margin:5px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arceus-sj&theme=midnight-purple&layout=compact" />
+ <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arceus-sj&theme=midnight-purple&layout=compact" />
 
- <img style="margin: 5px auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=Arceus-sj&theme=midnight-purple" />
+ <img style="margin: 10px auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=Arceus-sj&theme=midnight-purple" />
 </div>

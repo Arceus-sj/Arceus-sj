@@ -9,7 +9,7 @@
 
 A self-taught programmer & Tech geek🐱‍💻 who loves to build👷‍♂️ and create with the desire to make a change in life. I am an open-source contributor, an explorer🚀, and a problem solver. 
 
-- 🔭 I’m currently working on JS | CP 
+- 🔭 I’m currently working on Node JS & Express JS | CP 
 - 🌱 I’m currently learning Full Stack Development 
 - 📫 How to reach me: DM me on Twitter & LinkedIn 
 - 😇 Love to sketch, Travel🏔️, and watch anime🐱‍👤.
